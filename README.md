@@ -1,6 +1,6 @@
 # This Is Script Auto Backup in VPS
 script created by me <br>
-full tutorial is on my youtube [YOUTUBE](https://youtu.be/m8JcTf3dd7Y)
+full tutorial is on drive [drive](https://drive.google.com/file/d/1jfdT7Ge6Fmt_UfOKQ4Q0D-j5olhhK2gQ/view?usp=sharing)
 
 # How To Run The script?
 ##### 1. Download the file [autobackup.sh](https://github.com/EdoGaming28/autobackup/archive/refs/heads/main.zip)
